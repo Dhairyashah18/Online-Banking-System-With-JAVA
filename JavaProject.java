@@ -15,7 +15,7 @@ import java.util.concurrent.ThreadLocalRandom;
 import javax.swing.JOptionPane;
 
 /**
- * @author Japan Patel
+ * @author Dhairya Shah
  *
  */
 public class JavaProject extends User{
