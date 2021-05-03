@@ -1,0 +1,13 @@
+User ID : ravipatel922
+First Name :CRYSTON
+Last Name : PATEL
+Address : ETOBICOKE
+DOB : 12-09-1997
+Email : rav@gmail.com
+Contact no : 3455434554
+Savings Account no : 2316396
+Current Account no :8426696
+Saving Account Balance : 10100
+Current Account Balance : 0
+SIN no : 1234321345
+

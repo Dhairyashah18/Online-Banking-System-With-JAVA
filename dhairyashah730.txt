@@ -1,0 +1,12 @@
+User ID : dhairyashah730
+First Name : dhairya 
+Last Name : shah
+Address : sjbdkbf
+DOB : 21-09-1998
+Email : ds@gmail.com
+Contact no : 34343432
+Savings Account no : 1724057
+Current Account no : 2850870
+Saving Account Balance : 0
+Current Account Balance : 0
+SIN no : 34432

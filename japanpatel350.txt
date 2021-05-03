@@ -1,0 +1,13 @@
+User ID : japanpatel350
+First Name : JAPAN
+Last Name : PATEL
+Address : ANAND, INDIA
+DOB : 18-05-1998
+Email : japs@gmail.com
+Contact no : 1234543210
+Savings Account no : 1082515
+Current Account no : 7399844
+Saving Account Balance : 17000
+Current Account Balance : 10000
+SIN no : 1234567
+

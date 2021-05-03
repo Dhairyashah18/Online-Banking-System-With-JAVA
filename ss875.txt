@@ -1,0 +1,12 @@
+User ID : ss875
+First Name : s
+Last Name : s
+Address : s
+DOB : 3
+Email : d
+Contact no : 3
+Savings Account no : 4897334
+Current Account no : 0
+Saving Account Balance : 0
+Current Account Balance : 0
+SIN no : 3

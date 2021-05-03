@@ -1,0 +1,13 @@
+User ID : dhairyashah516
+First Name : DHAIRYA
+Last Name : SHAH
+Address : TORONTO, CANADA
+DOB : 27-07-1999
+Email : ds@gmail.com
+Contact no : 8460656525
+Savings Account no :0
+Current Account no :1508630
+Saving Account Balance :0
+Current Account Balance :500
+SIN no : 7654321
+

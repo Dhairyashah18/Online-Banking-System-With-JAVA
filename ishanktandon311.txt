@@ -1,0 +1,13 @@
+User ID : ishanktandon311
+First Name : ISHANK
+Last Name : TANDON
+Address :MARKHAM, CANADA
+DOB : 10-05-1996
+Email :ishk5@yahoo.com
+Contact no : 3434434334
+Savings Account no : 2251737
+Current Account no : 7196202
+Saving Account Balance : 5000
+Current Account Balance : 1500
+SIN no : 3344333
+
