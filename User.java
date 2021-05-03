@@ -3,13 +3,12 @@
  */
 package javaProject;
 
-//import java.io.BufferedReader;
 import java.util.concurrent.ThreadLocalRandom;
 
 import java.io.File;
-//import java.io.FileNotFoundException;
-//import java.io.FileReader;
-//import java.io.FileWriter;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
@@ -17,7 +16,7 @@ import java.util.Scanner;
 
 
 /**
- * @author Japan Patel
+ * @author Dhairya Shah
  *
  */
 public class User {
